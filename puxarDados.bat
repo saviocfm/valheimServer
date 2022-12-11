@@ -1,3 +1,3 @@
 git pull
-echo off
+@echo off
 set /p id="aperte enter para finalizar"

@@ -1,2 +1,3 @@
 git pull
-set /p "id=aperte enter para finalizar"
+echo off
+set /p id="aperte enter para finalizar"
